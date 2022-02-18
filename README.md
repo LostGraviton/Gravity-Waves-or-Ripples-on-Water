@@ -1,1 +1,0 @@
-# Linear-Harmonic-Oscillator
